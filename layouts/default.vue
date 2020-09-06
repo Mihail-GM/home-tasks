@@ -80,6 +80,25 @@ export default {
           title: 'Inspire',
           to: '/inspire',
         },
+
+        { divider: true },
+
+        {
+          icon: 'mdi-note-multiple',
+          title: 'Notes',
+          to: '/notes',
+        },
+        {
+          icon: 'mdi-lightbulb-on-outline',
+          title: 'Reminders',
+          to: '/reminders',
+        },
+        {
+          icon: 'mdi-archive',
+          title: 'Archive',
+          to: '/archive',
+        },
+
       ],
       miniVariant: false,
       right: true,
