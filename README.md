@@ -1,4 +1,4 @@
-# home-tasks
+# home-tasks nuxt app
 
 ## Build Setup
 
